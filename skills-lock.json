@@ -19,6 +19,102 @@
       "skillPath": "skills/ci-security-scanning-with-strix/SKILL.md",
       "computedHash": "13949ab1e24f8cac87a11b221e55e52e6bfcf712ccd9eaeefeae4e3608c70d44"
     },
+    "claude-video": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video/SKILL.md",
+      "computedHash": "ba0c65e2b671bb768b5650d398ed619d3cc66a386e1c3c32de57d048dd4a1fde"
+    },
+    "claude-video-analyze": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-analyze/SKILL.md",
+      "computedHash": "c12a51246f33b04ae81b9be6cbfb4246397ae0d05e41f37f3f5ed459f52d989e"
+    },
+    "claude-video-audio": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-audio/SKILL.md",
+      "computedHash": "afb8ce6a78d97cc1b596384fa79b0b216cc46b4d79cf4fd7b91e912e13d1e767"
+    },
+    "claude-video-caption": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-caption/SKILL.md",
+      "computedHash": "23024899b5d490e1667df37956350c775908b989bc59323896b8417866cf0924"
+    },
+    "claude-video-create": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-create/SKILL.md",
+      "computedHash": "123b82a72530f976bea43d546321d639e09aebd551ef9b33e53ef9803f94a110"
+    },
+    "claude-video-download": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-download/SKILL.md",
+      "computedHash": "b601a7d8502c412e310abdcc776c7c2b63d501cc1921b1d8f746c8dbace7c007"
+    },
+    "claude-video-edit": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-edit/SKILL.md",
+      "computedHash": "0ee68afc2829f0d70608c38022ef22331d531aeb5a97859cf40b8f013c3b9320"
+    },
+    "claude-video-enhance": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-enhance/SKILL.md",
+      "computedHash": "1dad0386581b3c97b6a2cf589182ba8fb0e3cd814d478b94169a41e6946e51a0"
+    },
+    "claude-video-enhance-audio": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-enhance-audio/SKILL.md",
+      "computedHash": "7a24e07d5cd9f11ad52650c3e06713528adf0685db7948a034b7700ae6c199ef"
+    },
+    "claude-video-export": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-export/SKILL.md",
+      "computedHash": "e284f579789b2a63c514cc10814e5c8b5d5fea2f8c8b7cb23b16cb2d398fce05"
+    },
+    "claude-video-generate": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-generate/SKILL.md",
+      "computedHash": "b27dbe62b466cda07a6932d20e5bbc5e1673642ebe3f49199fd430ba20ded676"
+    },
+    "claude-video-image": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-image/SKILL.md",
+      "computedHash": "a0405417543f894e153cbe5f71a573907fd9eb4b61696ff12677547721f046de"
+    },
+    "claude-video-promo": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-promo/SKILL.md",
+      "computedHash": "cc9a46adc575da74b270f9ed4dbe09b49627c01fa52bc8d5f0784a0b5bb1d865"
+    },
+    "claude-video-screenshot": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-screenshot/SKILL.md",
+      "computedHash": "7c00e989edfc4ce580cbde60b0ec9a6ac13e5f49628f74125144d73e3231641a"
+    },
+    "claude-video-shorts": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-shorts/SKILL.md",
+      "computedHash": "360dd08bd2e4a0a5db08e1e5f46f5ff1f2332fe680ebdd1cca70414017552b94"
+    },
+    "claude-video-transcode": {
+      "source": "agricidaniel/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/video-transcode/SKILL.md",
+      "computedHash": "831e2bdfb7e32d4f57f5e69407e7cb35a822df61880411e83b795eed533d4065"
+    },
     "find-security-vulnerabilities-in-code": {
       "source": "usestrix/strix",
       "sourceType": "github",
@@ -48,6 +144,84 @@
       "sourceType": "github",
       "skillPath": "skills/penetration-testing-with-strix/SKILL.md",
       "computedHash": "54ba2e5fabb69e319421fdf6c8bdbd43650b66d0ed592b920f57e60e25d9e809"
+    },
+    "remotion-best-practices": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-best-practices/SKILL.md",
+      "computedHash": "55e6029eeafb7f64bfcaef013f7b9f569dfcc4db6554c6d6fb833ad141ec1494"
+    },
+    "remotion-captions": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-captions/SKILL.md",
+      "computedHash": "07bc117cc06fb9090aad2948ebc0eb913914759cc805d50ffb8894454840e4ba"
+    },
+    "remotion-create": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-create/SKILL.md",
+      "computedHash": "f81a5c7addd97fd553274c78ec93b274cf48df4d58e071b74158c8b6e547f348"
+    },
+    "remotion-docs": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-docs/SKILL.md",
+      "computedHash": "6c0e9b3dec3441fd54712e5377ed6094c51a2228b8d8934aaae75a0dc425777f"
+    },
+    "remotion-interactivity": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-interactivity/SKILL.md",
+      "computedHash": "3c588b415e7e86be30b26057f9751ef21a36c42807bcfc0d2252d4fa5e34e489"
+    },
+    "remotion-license": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-license/SKILL.md",
+      "computedHash": "36b400fca48ac80dfa85889f270b6d03a9854be690810f0b692dd4fb17e21e8f"
+    },
+    "remotion-maps": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-maps/SKILL.md",
+      "computedHash": "cf29c124697a2a058dd7c2de0442f95c41c6ce22354e98c8faa94ceab2f63c10"
+    },
+    "remotion-markup": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-markup/SKILL.md",
+      "computedHash": "29b795d29bc3692b4c480cff0682f7eb39b1be1264186b9914359db451eef8d0"
+    },
+    "remotion-multimedia": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-multimedia/SKILL.md",
+      "computedHash": "5d0d2d40329e899b854db1eebb462faa8e5ce26b7a13436973699c4a7ff79846"
+    },
+    "remotion-render": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-render/SKILL.md",
+      "computedHash": "266306e064e8be13d93c85fac3a9bbd6ef542acac5c1961cfbd3c51b84e02827"
+    },
+    "remotion-saas": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-saas/SKILL.md",
+      "computedHash": "a708e7ab01c9c6ff22947e5f942d16f627c39fe2eb7b0403b5e6123011123403"
+    },
+    "remotion-studio": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-studio/SKILL.md",
+      "computedHash": "e9dd94324fceb56ecd1cd466ff2371f8dcf6d7daeceb1d94f74cce7784d861be"
+    },
+    "remotion-upgrade": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-upgrade/SKILL.md",
+      "computedHash": "27e2c87253c65d0a8d5b8878a871c9d86814fa89bc4f962b2fbe3f8ad450928c"
     },
     "web-app-penetration-testing": {
       "source": "usestrix/strix",
